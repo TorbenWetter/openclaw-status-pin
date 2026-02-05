@@ -1,0 +1,20 @@
+{
+  "name": "openclaw-status-pin",
+  "version": "1.0.0",
+  "description": "OpenClaw hook that pins a live status message in Telegram showing context usage and OpenRouter balance",
+  "type": "module",
+  "main": "handler.js",
+  "author": "Torben Wetter",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "private": true,
+  "keywords": [
+    "openclaw",
+    "telegram",
+    "openrouter",
+    "status",
+    "hook"
+  ]
+}
